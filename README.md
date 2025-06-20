@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Wagner!
 
 🎓 Professor de Análise e Desenvolvimento de Sistemas na UNIFAAT  
-💻 Especialista em Redes e INfraestrutura de T.I. Estou buscandom me tornar um Desenvolvedor Full Stack | Foco em React, Node.js, e MySQL  
+💻 Especialista em Redes e Infraestrutura de T.I. Estou buscandom me tornar um Desenvolvedor Full Stack | Foco em React, Node.js, e MySQL  
 🚀 Projetos em andamento: Sistema de Gerenciamento de Produção Industrial
 
 ## 🧰 Tecnologias que utilizo
