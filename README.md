@@ -2,7 +2,6 @@
 
 🎓 Professor de Análise e Desenvolvimento de Sistemas na UNIFAAT.  
 💻 Especialista em Redes e Infraestrutura de T.I. Estou buscando me tornar um Desenvolvedor Full Stack | Foco em React, Node.js, e MySQL.  
-🚀 Projetos em andamento: Sistema de Gerenciamento de Produção Industrial.
 
 ## 🧰 Tecnologias que utilizo
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
