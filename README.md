@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Wagner!
 
-🎓 Professor de Análise e Desenvolvimento de Sistemas na UNIFAAT.  
+🎓 Professor de Análise e Desenvolvimento de Sistemas na UNIFAAT e ETEC.  
 💻 Especialista em Redes e Infraestrutura de T.I.  
 🚀 Em evolução para Hacker Ético.  
 
