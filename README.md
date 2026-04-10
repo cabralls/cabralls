@@ -2,7 +2,7 @@
 
 🎓 Professor de Análise e Desenvolvimento de Sistemas na UNIFAAT e ETEC.  
 💻 Especialista em Redes e Infraestrutura de T.I.  
-🚀 Em evolução para Hacker Ético.  
+🚀 Hacker Ético.  
 
 Atualmente focado em desenvolvimento e arquitetura de sistemas, com experiência em infraestrutura, Linux e cybersegurança.
 
